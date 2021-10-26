@@ -1,0 +1,82 @@
+[
+   {
+      "date": "10/20/2021",
+      "details": [
+         { "title": "Breakfast", "amount": 25.0 },
+         { "title": "Launch", "amount": 55.0 },
+         { "title": "Dinner", "amount": 35.0 }
+      ],
+      "total": 115.0
+   },
+   {
+      "date": "10/21/2021",
+      "details": [
+         { "title": "Breakfast", "amount": 25.0 },
+         { "title": "Launch", "amount": 60.0 },
+         { "title": "Dinner", "amount": 40.0 },
+         { "title": "compose", "amount": 20.0 }
+      ],
+      "total": 145.0
+   },
+   {
+      "date": "10/20/2021",
+      "details": [
+         { "title": "Breakfast", "amount": 25.0 },
+         { "title": "Launch", "amount": 55.0 },
+         { "title": "Dinner", "amount": 35.0 }
+      ],
+      "total": 115.0
+   },
+   {
+      "date": "10/21/2021",
+      "details": [
+         { "title": "Breakfast", "amount": 25.0 },
+         { "title": "Launch", "amount": 60.0 },
+         { "title": "Dinner", "amount": 40.0 },
+         { "title": "compose", "amount": 20.0 }
+      ],
+      "total": 145.0
+   },
+   {
+      "date": "10/20/2021",
+      "details": [
+         { "title": "Breakfast", "amount": 25.0 },
+         { "title": "Launch", "amount": 55.0 },
+         { "title": "Dinner", "amount": 35.0 },
+         { "title": "Tea", "amount": 10.0 }
+      ],
+      "total": 125.0
+   },
+   {
+      "date": "10/21/2021",
+      "details": [
+         { "title": "Breakfast", "amount": 25.0 },
+         { "title": "Launch", "amount": 60.0 },
+         { "title": "Dinner", "amount": 40.0 },
+         { "title": "Extra", "amount": 35.0 }
+      ],
+      "total": 160.0
+   },
+   {
+      "date": "10/20/2021",
+      "details": [
+         { "title": "Breakfast", "amount": 25.0 },
+         { "title": "Launch", "amount": 55.0 },
+         { "title": "Dinner", "amount": 35.0 },
+         { "title": "Extra", "amount": 20.0 }
+      ],
+      "total": 115.0
+   },
+   {
+      "date": "10/21/2021",
+      "details": [
+         { "title": "Breakfast", "amount": 25.0 },
+         { "title": "Launch", "amount": 65.0 },
+         { "title": "Dinner", "amount": 40.0 },
+         { "title": "Tea", "amount": 10.0 },
+         { "title": "Print", "amount": 20.0 },
+         { "title": "Extra", "amount": 20.0 }
+      ],
+      "total": 180.0
+   }
+]

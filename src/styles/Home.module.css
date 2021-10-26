@@ -1,0 +1,90 @@
+.page_btns {
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   margin-top: 20px;
+   flex-wrap: wrap;
+}
+.income_btn {
+   background-color: rgb(183 251 183);
+   padding: 10px 20px;
+   border: none;
+   border-radius: 5px;
+   font-size: 20px;
+   font-weight: 600;
+   cursor: pointer;
+   margin-bottom: 20px;
+   color: #444;
+}
+.expense_btn {
+   background-color: rgb(255 162 162);
+   padding: 10px 20px;
+   border: none;
+   border-radius: 5px;
+   font-size: 20px;
+   font-weight: 600;
+   cursor: pointer;
+   margin-bottom: 20px;
+   color: #444;
+}
+
+.add_income {
+   width: 80%;
+   margin: auto;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   border-radius: 5px;
+   padding: 0 5px;
+   box-shadow: 0 0 30px 0 rgb(170 243 164);
+}
+.add_expense {
+   width: 80%;
+   margin: auto;
+   margin-top: 20px;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   border-radius: 5px;
+   padding: 0 5px;
+   box-shadow: 0 0 30px 0 rgb(241 177 177);
+}
+.add_income > div {
+   flex: 1;
+   display: flex;
+   flex-direction: column;
+}
+.add_expense > div {
+   flex: 1;
+   display: flex;
+   flex-direction: column;
+}
+.add_income > div input,
+.add_expense > div input {
+   flex: 1;
+   padding: 10px;
+   border: none;
+   outline: none;
+}
+.input_btn {
+   width: 20%;
+   padding: 10px;
+   border: none;
+   border-left: 1px solid rgb(241 241 241);
+   cursor: pointer;
+   background-color: #fff;
+   font-weight: 600;
+   color: #777;
+   text-transform: uppercase;
+   width: fit-content;
+   font-size: 14px;
+}
+.input_btn:hover {
+   color: #333;
+}
+@media screen and (max-width: 411px) {
+   .input_btn {
+      font-size: 12px;
+      padding: 5px;
+   }
+}

@@ -1,0 +1,37 @@
+[
+   {
+      "date": "06/24/2021",
+      "title": "Tution",
+      "amount": 2500.0
+   },
+   {
+      "date": "06/25/2021",
+      "title": "From Home",
+      "amount": 5000.0
+   },
+   {
+      "date": "07/15/2021",
+      "title": "Tution",
+      "amount": 1500.0
+   },
+   {
+      "date": "08/25/2021",
+      "title": "Upwork",
+      "amount": 62000.0
+   },
+   {
+      "date": "09/20/2021",
+      "title": "Upwork",
+      "amount": 50000.0
+   },
+   {
+      "date": "10/02/2021",
+      "title": "Envato affiliate",
+      "amount": 6250.0
+   },
+   {
+      "date": "10/25/2021",
+      "title": "Themeforest",
+      "amount": 12000.0
+   }
+]

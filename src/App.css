@@ -1,0 +1,35 @@
+.App {
+   height: 100vh;
+   display: flex;
+   flex-direction: column;
+   color: #333;
+}
+.header {
+   background: rgb(9, 247, 156);
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   padding: 10px 0;
+}
+.container {
+   width: 60%;
+   margin: auto;
+   background: rgb(255, 255, 255);
+   flex: 1;
+}
+
+@media screen and (max-width: 992px) {
+   .container {
+      width: 80%;
+   }
+}
+@media screen and (max-width: 560px) {
+   .container {
+      width: 90%;
+   }
+}
+@media screen and (max-width: 300px) {
+   .container {
+      width: 100%;
+   }
+}
